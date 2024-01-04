@@ -1,0 +1,257 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Responsive.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Responsive.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\css\\skel.css",
+      "PackagePath": "staticwebassets\\css\\skel.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\css\\style-large.css",
+      "PackagePath": "staticwebassets\\css\\style-large.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\css\\style-medium.css",
+      "PackagePath": "staticwebassets\\css\\style-medium.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\css\\style-small.css",
+      "PackagePath": "staticwebassets\\css\\style-small.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\css\\style-xlarge.css",
+      "PackagePath": "staticwebassets\\css\\style-xlarge.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\css\\style-xsmall.css",
+      "PackagePath": "staticwebassets\\css\\style-xsmall.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\fontawesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\fontawesome\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\fontawesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\fontawesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\fontawesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\fontawesome\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\fontawesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\fontawesome\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\fontawesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\fontawesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\fontawesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\fontawesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\fontawesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fonts\\PT_Sans-Web-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\PT_Sans-Web-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fonts\\pt_sans-web-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\pt_sans-web-regular-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fonts\\pt_sans-web-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\pt_sans-web-regular-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fonts\\pt_sans-web-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\pt_sans-web-regular-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fonts\\pt_sans-web-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\pt_sans-web-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fonts\\pt_sans-web-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\pt_sans-web-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\fonts\\stylesheet.css",
+      "PackagePath": "staticwebassets\\fonts\\stylesheet.css"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\images\\bokeh_car_lights_bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bokeh_car_lights_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\images\\dark_tint.png",
+      "PackagePath": "staticwebassets\\images\\dark_tint.png"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\images\\pic02.jpg",
+      "PackagePath": "staticwebassets\\images\\pic02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\images\\pic03.jpg",
+      "PackagePath": "staticwebassets\\images\\pic03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\images\\pic04.jpg",
+      "PackagePath": "staticwebassets\\images\\pic04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\images\\pic07.jpg",
+      "PackagePath": "staticwebassets\\images\\pic07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\images\\pic08.jpg",
+      "PackagePath": "staticwebassets\\images\\pic08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\images\\profile_placeholder.gif",
+      "PackagePath": "staticwebassets\\images\\profile_placeholder.gif"
+    },
+    {
+      "Id": "C:\\Users\\damla.kaya\\source\\repos\\Responsive\\wwwroot\\responsive.css",
+      "PackagePath": "staticwebassets\\responsive.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Responsive.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Responsive.props",
+      "PackagePath": "build\\Responsive.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Responsive.props",
+      "PackagePath": "buildMultiTargeting\\Responsive.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Responsive.props",
+      "PackagePath": "buildTransitive\\Responsive.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
